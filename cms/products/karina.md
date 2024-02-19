@@ -4,8 +4,7 @@ f_product-description: >-
   single position locking.
 title: KARINA
 f_product-image:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/6584157d3dc865c2b1f023ff_Untitled%20design%20(14).png
+  url: /assets/external/6584157d3dc865c2b1f023ff_untitled20design2014.png
   alt: null
 slug: karina
 updated-on: '2023-12-21T10:37:54.852Z'

@@ -2,8 +2,7 @@
 title: Geternity Springs
 f_project-type: Hotel
 f_project-image:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656b1efdd4c7ff75a8875223_Rectangle%2018%20(8).png
+  url: /assets/external/656b1efdd4c7ff75a8875223_rectangle2018208.png
   alt: null
 slug: geternity-springs
 updated-on: '2023-12-07T09:14:14.697Z'

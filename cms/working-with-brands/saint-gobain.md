@@ -1,8 +1,7 @@
 ---
 title: Saint Gobain
 f_brand-logo:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/658a93a7a496f897ff093dbd_Saint%20Gobain.png
+  url: /assets/external/658a93a7a496f897ff093dbd_saint20gobain.png
   alt: null
 slug: saint-gobain
 updated-on: '2023-12-26T08:49:45.887Z'

@@ -6,12 +6,11 @@ updated-on: '2024-02-10T09:43:52.839Z'
 created-on: '2023-12-26T12:23:34.661Z'
 published-on: '2024-02-13T09:58:15.070Z'
 f_service-icon:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65c74553723f67efc27e4261_3.png
+  url: /assets/external/65c74553723f67efc27e4261_3.png
   alt: null
 f_single-service-image:
   url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b496ac1e9d621bd97ec447_74c02a57afa17a65767f696a1ad1c93c.jpg
+    /assets/external/65b496ac1e9d621bd97ec447_74c02a57afa17a65767f696a1ad1c93c.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -43,7 +42,7 @@ Our commercial interior design services create environments that inspire, motiva
 
 ‍
 
-![](https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b4968ded6da4292ee454e8_07485dc18903d323507721b659bac9e4.jpg)
+![](/assets/external/65b4968ded6da4292ee454e8_07485dc18903d323507721b659bac9e4.jpg)
 
 **4.** **Personalized Project Management:**
 

@@ -797,6 +797,7 @@ body {
 .testi-mask {
   height: auto;
   background-color: var(--white);
+  overflow: hidden;
 }
 
 .footer-top-container {
@@ -7175,6 +7176,10 @@ body {
 .text-field-copy-copy:focus {
   border-width: 2px;
   border-color: var(--button-pinkl);
+}
+
+.for_horizontal_width {
+  overflow: hidden;
 }
 
 @media screen and (min-width: 1280px) {

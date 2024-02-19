@@ -2,8 +2,7 @@
 title: Infinity Coral
 f_project-type: Hotel
 f_project-image:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656b1e2b18790741946b37e7_Rectangle%2018%20(2).png
+  url: /assets/external/656b1e2b18790741946b37e7_rectangle2018202.png
   alt: null
 slug: infinity-coral
 updated-on: '2023-12-07T09:13:21.205Z'

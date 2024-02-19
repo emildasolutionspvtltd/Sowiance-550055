@@ -3,15 +3,13 @@ title: Wall Design & Painting
 f_services-description: Creative Wall Transformations
 slug: wall-design-painting
 f_service-icon:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b497f7340fcf956d06fd35_images%20(37).jpeg.jpg
+  url: /assets/external/65b497f7340fcf956d06fd35_images2037.jpeg.jpg
   alt: null
 updated-on: '2024-01-27T05:43:50.669Z'
 created-on: '2023-12-02T12:49:45.472Z'
 published-on: '2024-02-06T11:19:14.339Z'
 f_single-service-image:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b497fb67fd9e5920c48828_images%20(38).jpeg.jpg
+  url: /assets/external/65b497fb67fd9e5920c48828_images2038.jpeg.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -43,7 +41,7 @@ Transform your walls into canvases of expression with our custom wall designs an
 
 ‍
 
-![](https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b101b6e3e8909ec35668b2_minimalistic-modernist-cross-design-ai-generated.jpg)
+![](/assets/external/65b101b6e3e8909ec35668b2_minimalistic-modernist-cross-design-ai-generated.jpg)
 
 **4.** **Professional Execution:**
 

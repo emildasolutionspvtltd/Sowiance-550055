@@ -798,9 +798,9 @@ collections:
             widget: string
           - hint: |-
               Original text: A simple, yet powerful
-                          and efficient process, key: 19609812
+                            and efficient process, key: 73de9552
             label: Text
-            name: '19609812'
+            name: 73de9552
             widget: string
           - hint: >-
               Original text: Begin with a personalized consultation where our
@@ -884,9 +884,9 @@ collections:
             widget: text
           - hint: |-
               Original text: Contact us today for
-                        a free consultation, key: -25d70b84
+                          a free consultation, key: 515ab8fc
             label: Text
-            name: '-25d70b84'
+            name: 515ab8fc
             widget: string
           - hint: >-
               Original text: Revitalize your home with a free consultation from
@@ -897,9 +897,9 @@ collections:
             widget: text
           - hint: |-
               Original text: Hear what our great
-                      customers say, key: 3b3b0945
+                        customers say, key: 61223005
             label: Text
-            name: 3b3b0945
+            name: '61223005'
             widget: string
           - hint: >-
               Original text: Celebrating success through our clients' eyes:
@@ -1039,9 +1039,9 @@ collections:
             widget: text
           - hint: |-
               Original text: Contact us for a
-                        free consultation, key: 3557805b
+                          free consultation, key: -6a56b325
             label: Text
-            name: 3557805b
+            name: '-6a56b325'
             widget: string
           - hint: 'Original text: Our services, key: fcf0ad2'
             label: Text
@@ -1258,6 +1258,12 @@ collections:
           - hint: 'Original text: +91-9590862921, key: 36149741'
             label: Text
             name: '36149741'
+            widget: string
+          - hint: |-
+              Original text: Contact us for a
+                        free consultation, key: 3557805b
+            label: Text
+            name: 3557805b
             widget: string
           - hint: 'Original text: Elevating Spaces, Enhancing Lives, key: -c6b4758'
             label: Text
@@ -1483,6 +1489,12 @@ collections:
           - hint: 'Original text: Koramangala, Bengaluru, key: 2e627ac7'
             label: Text
             name: 2e627ac7
+            widget: string
+          - hint: |-
+              Original text: Contact us today for
+                        a free consultation, key: -25d70b84
+            label: Text
+            name: '-25d70b84'
             widget: string
           - hint: >-
               Original text: Explore our comprehensive services tailored for
@@ -1772,6 +1784,12 @@ collections:
               66881763
             label: Link
             name: '66881763'
+            widget: string
+          - hint: >-
+              Original link: https://maps.app.goo.gl/ygRqt6AXwuD1EADM6, key:
+              4ffd09b2
+            label: Link
+            name: 4ffd09b2
             widget: string
       - label: Images
         name: images
@@ -2160,19 +2178,6 @@ collections:
                 required: false
           - label: Image
             name: '-5934ae96'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '0'
             widget: object
             fields:
               - name: url

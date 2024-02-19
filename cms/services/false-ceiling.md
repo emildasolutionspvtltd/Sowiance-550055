@@ -3,15 +3,14 @@ title: False Ceiling
 f_services-description: Elevated Ceiling Artistry
 slug: false-ceiling
 f_service-icon:
-  url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65c7457ac823202845f6d9ff_1.png
+  url: /assets/external/65c7457ac823202845f6d9ff_1.png
   alt: null
 updated-on: '2024-02-10T09:44:38.131Z'
 created-on: '2023-12-02T12:49:45.479Z'
 published-on: '2024-02-13T09:58:15.070Z'
 f_single-service-image:
   url: >-
-    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b49720fad7fc326f8a5ea4_6766b0a1371a38596d1a7604d1776d1f.jpg
+    /assets/external/65b49720fad7fc326f8a5ea4_6766b0a1371a38596d1a7604d1776d1f.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -43,7 +42,7 @@ Elevate your interiors with our false ceiling designs that add depth, character,
 
 ‍
 
-![](https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b0fe0eb16f3335ac8f3138_2151037471.jpg)
+![](/assets/external/65b0fe0eb16f3335ac8f3138_2151037471.jpg)
 
 **4.** **Personalized Themes:**
 
