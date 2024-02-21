@@ -1247,10 +1247,6 @@ collections:
             label: Text
             name: 5040b76e
             widget: string
-          - hint: 'Original text: admin@sowiance.com, key: -4635761f'
-            label: Text
-            name: '-4635761f'
-            widget: string
           - hint: 'Original text: Give us a call, key: -2c7bbb0'
             label: Text
             name: '-2c7bbb0'
@@ -1258,10 +1254,6 @@ collections:
           - hint: 'Original text: +91-9008304218 , key: -42f2a32b'
             label: Text
             name: '-42f2a32b'
-            widget: string
-          - hint: 'Original text: +91-9590862921, key: 36149741'
-            label: Text
-            name: '36149741'
             widget: string
           - hint: |-
               Original text: Contact us for a
