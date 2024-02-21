@@ -1251,9 +1251,9 @@ collections:
             label: Text
             name: '-2c7bbb0'
             widget: string
-          - hint: 'Original text: +91-9008304218 , key: -42f2a32b'
+          - hint: 'Original text: +91-9900006418, key: -2dbdd3f1'
             label: Text
-            name: '-42f2a32b'
+            name: '-2dbdd3f1'
             widget: string
           - hint: |-
               Original text: Contact us for a
@@ -1793,6 +1793,10 @@ collections:
               key: -2ae0bce2
             label: Link
             name: '-2ae0bce2'
+            widget: string
+          - hint: 'Original link: tel:+919900006418, key: 84c8c29'
+            label: Link
+            name: 84c8c29
             widget: string
       - label: Images
         name: images
