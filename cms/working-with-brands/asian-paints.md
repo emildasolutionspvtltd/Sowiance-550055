@@ -1,7 +1,8 @@
 ---
 title: Asian Paints
 f_brand-logo:
-  url: /assets/external/658a78ffdd7c62ee2ca7d3f7_asian20paints.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/658a78ffdd7c62ee2ca7d3f7_Asian%20paints.png
   alt: null
 slug: asian-paints
 updated-on: '2023-12-26T06:56:03.735Z'

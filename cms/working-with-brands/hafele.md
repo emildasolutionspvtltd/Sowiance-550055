@@ -1,7 +1,8 @@
 ---
 title: Hafele
 f_brand-logo:
-  url: /assets/external/658a70d7cbb8c58460d81251_untitled20design2023.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/658a70d7cbb8c58460d81251_Untitled%20design%20(23).png
   alt: null
 slug: hafele
 updated-on: '2023-12-26T06:22:33.081Z'

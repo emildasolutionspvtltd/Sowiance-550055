@@ -2,7 +2,8 @@
 title: Haven Square
 f_project-type: Commercial
 f_project-image:
-  url: /assets/external/656b1e986020bcf60dfd7999_rectangle2018205.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656b1e986020bcf60dfd7999_Rectangle%2018%20(5).png
   alt: null
 slug: haven-square
 updated-on: '2023-12-07T09:13:53.127Z'

@@ -1,7 +1,8 @@
 ---
 title: Rehau
 f_brand-logo:
-  url: /assets/external/658a720e2b831ad98d6e722b_rehau.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/658a720e2b831ad98d6e722b_Rehau.png
   alt: null
 slug: rehau
 updated-on: '2023-12-26T06:26:29.856Z'

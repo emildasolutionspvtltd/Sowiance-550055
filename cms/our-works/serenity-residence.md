@@ -11,13 +11,16 @@ f_project-client-name: Rakhi Raj
 f_project-scope-text: Bedroom & kitchen interior
 slug: serenity-residence
 f_project-image:
-  url: /assets/external/656b1eb7171696c952f2cb24_rectangle2018206.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656b1eb7171696c952f2cb24_Rectangle%2018%20(6).png
   alt: null
 f_project-client-image:
-  url: /assets/external/656d63f28690089fd4272bed_ellipse203.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656d63f28690089fd4272bed_Ellipse%203.png
   alt: null
 f_single-project-page-image:
-  url: /assets/external/656d63e1379373c9ed75ac2d_rectangle2019.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656d63e1379373c9ed75ac2d_Rectangle%2019.png
   alt: null
 updated-on: '2023-12-07T09:12:30.942Z'
 created-on: '2023-12-04T05:31:49.960Z'

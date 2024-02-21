@@ -3,14 +3,15 @@ f_services-description: Personalized Storage Solutions
 title: Modular Wardrobes
 slug: modular-wardrobes
 f_service-icon:
-  url: /assets/external/65c7456f95d382331789b8b6_7.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65c7456f95d382331789b8b6_7.png
   alt: null
 updated-on: '2024-02-10T09:44:19.467Z'
 created-on: '2023-12-02T12:54:02.592Z'
 published-on: '2024-02-13T09:58:15.070Z'
 f_single-service-image:
   url: >-
-    /assets/external/65b496f350658bb841f4eb44_4172b1a966cb2828d0232d724047e7f6.jpg
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b496f350658bb841f4eb44_4172b1a966cb2828d0232d724047e7f6.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -42,7 +43,7 @@ Tailor your storage with our bespoke modular wardrobes, designed to fit your spa
 
 ‍
 
-![](/assets/external/65b496fcd51d3afbc743c824_b576630527c4644449988c06f6fc213f.jpg)
+![](https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b496fcd51d3afbc743c824_b576630527c4644449988c06f6fc213f.jpg)
 
 ‍
 

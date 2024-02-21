@@ -803,10 +803,10 @@ collections:
             name: 73de9552
             widget: string
           - hint: >-
-              Original text: Begin with a personalized consultation where our
-              design experts understand your, key: -234b1eee
+              Original text: Designed for you: seamless, personalized, and
+              impactful. Tailored to meet your needs., key: 1ffabf82
             label: Text
-            name: '-234b1eee'
+            name: 1ffabf82
             widget: string
           - hint: 'Original text: Get in Touch, key: -53f399f2'
             label: Text
@@ -821,12 +821,12 @@ collections:
             name: 152d2b82
             widget: string
           - hint: >-
-              Original text: Begin with a personalized consultation where our
-              design experts understand your vision. We then translate your
-              ideas into a unique concept, ensuring it aligns perfectly with
-              your lifestyle and preferences., key: 3d22e19f
+              Original text: Begin with a personal conversation to unearth your
+              vision. Together, we'll craft a bespoke concept that mirrors your
+              unique identity, ensuring the foundation of your project is deeply
+              connected to you., key: -2e096e1c
             label: Text
-            name: 3d22e19f
+            name: '-2e096e1c'
             widget: text
           - hint: 'Original text: 02, key: 602'
             label: Text
@@ -837,12 +837,12 @@ collections:
             name: 64cb689f
             widget: string
           - hint: >-
-              Original text: Our team crafts a detailed design plan, complete
-              with 3D renderings and material selections. We collaborate closely
-              with you, making adjustments until you're thrilled with the final
-              design., key: -25f90d65
+              Original text: Transform your ideas into tangible designs that
+              reflect your soul. We engage in a collaborative process, refining
+              and adjusting until every detail aligns perfectly with your vision
+              and expectations., key: -47a08b0c
             label: Text
-            name: '-25f90d65'
+            name: '-47a08b0c'
             widget: text
           - hint: 'Original text: 03, key: 603'
             label: Text
@@ -853,12 +853,12 @@ collections:
             name: 5ee94cf6
             widget: string
           - hint: >-
-              Original text: Once the design is approved, our skilled craftsmen
-              and project managers take over, ensuring meticulous execution. We
-              focus on timely delivery with consistent updates, transforming
-              your space into the dream home you envisioned., key: 3b75a38
+              Original text: Experience the realization of your dream space as
+              we meticulously manage the execution. From overseeing every detail
+              to ensuring a timely delivery, we're committed to bringing your
+              vision to life with precision and care., key: -592fd85a
             label: Text
-            name: 3b75a38
+            name: '-592fd85a'
             widget: text
           - hint: 'Original text: Our Industry Partnerships, key: 3ba69afd'
             label: Text
@@ -1233,9 +1233,9 @@ collections:
             label: Text
             name: '71575750'
             widget: string
-          - hint: 'Original text: admin@sowiance.com, key: -4635761f'
+          - hint: 'Original text: hello@sowiance.com, key: 784fc13e'
             label: Text
-            name: '-4635761f'
+            name: 784fc13e
             widget: string
           - hint: 'Original text: Send us an email, key: 6a39ecb3'
             label: Text
@@ -1246,6 +1246,10 @@ collections:
               guidance, key: 5040b76e
             label: Text
             name: 5040b76e
+            widget: string
+          - hint: 'Original text: admin@sowiance.com, key: -4635761f'
+            label: Text
+            name: '-4635761f'
             widget: string
           - hint: 'Original text: Give us a call, key: -2c7bbb0'
             label: Text
@@ -1780,16 +1784,23 @@ collections:
             widget: string
           - hint: >-
               Original link:
-              https://api.whatsapp.com/send?phone=919008304218&text=Hi, key:
-              66881763
+              https://api.whatsapp.com/send?phone=919900006418&text=Hello%20Sowiance,%20I%20am%20looking%20forward%20to%20designing%20my%C2%A0space%C2%A0with%C2%A0you.,
+              key: 37610338
             label: Link
-            name: '66881763'
+            name: '37610338'
             widget: string
           - hint: >-
-              Original link: https://maps.app.goo.gl/ygRqt6AXwuD1EADM6, key:
-              4ffd09b2
+              Original link: https://maps.app.goo.gl/FDEYwAtqV4FYMzpH8, key:
+              -7f3915c5
             label: Link
-            name: 4ffd09b2
+            name: '-7f3915c5'
+            widget: string
+          - hint: >-
+              Original link:
+              mailto:hello@sowiance.com?subject=Hello%20Sowiance%2C%20I%20am%20looking%20forward%20to%20designing%20my%C2%A0space%C2%A0with%C2%A0you.,
+              key: -2ae0bce2
+            label: Link
+            name: '-2ae0bce2'
             widget: string
       - label: Images
         name: images
@@ -3255,4 +3266,5 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
+local_backend: true
 publish_mode: editorial_workflow

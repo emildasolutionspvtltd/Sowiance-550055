@@ -2,7 +2,8 @@
 title: Eternity Springs
 f_project-type: Hotel
 f_project-image:
-  url: /assets/external/656b1ddef280747c28821f68_rectangle2018.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/656b1ddef280747c28821f68_Rectangle%2018.png
   alt: null
 slug: quia-natus-voluptas
 updated-on: '2023-12-07T09:12:43.712Z'

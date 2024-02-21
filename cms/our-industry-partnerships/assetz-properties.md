@@ -1,7 +1,8 @@
 ---
 title: Assetz properties
 f_partner-company-logo:
-  url: /assets/external/65ab6e9bf5df1c2a08ab0a95_assetz.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65ab6e9bf5df1c2a08ab0a95_aSSETZ.png
   alt: null
 slug: assetz-properties
 updated-on: '2024-01-20T06:56:30.408Z'

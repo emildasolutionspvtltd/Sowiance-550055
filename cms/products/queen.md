@@ -4,7 +4,8 @@ f_product-description: >-
   with single position locking.
 title: QUEEN
 f_product-image:
-  url: /assets/external/65841559f61d0fde4705c199_untitled20design2012.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65841559f61d0fde4705c199_Untitled%20design%20(12).png
   alt: null
 slug: queen
 updated-on: '2023-12-21T10:37:17.312Z'

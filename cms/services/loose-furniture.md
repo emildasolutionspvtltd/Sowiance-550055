@@ -3,13 +3,15 @@ title: Loose Furniture
 f_services-description: Versatile Furniture Pieces
 slug: loose-furniture
 f_service-icon:
-  url: /assets/external/65c7459a16f1ff4a94f6ca8a_5.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65c7459a16f1ff4a94f6ca8a_5.png
   alt: null
 updated-on: '2024-02-10T09:46:08.312Z'
 created-on: '2023-12-02T12:49:45.472Z'
 published-on: '2024-02-13T09:58:15.070Z'
 f_single-service-image:
-  url: /assets/external/65b1013286b71774748db25e_25564.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b1013286b71774748db25e_25564.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -41,7 +43,7 @@ Select from our wide range of loose furniture, each piece thoughtfully chosen to
 
 ‍
 
-![](/assets/external/65b1012daab31304aca4c6ce_2150695655.jpg)
+![](https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/65b1012daab31304aca4c6ce_2150695655.jpg)
 
 **4.** **Functional Versatility:**
 

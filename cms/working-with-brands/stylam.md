@@ -2,7 +2,8 @@
 title: Stylam
 slug: stylam
 f_brand-logo:
-  url: /assets/external/658a942e463e79c19694d6b5_stylam.png
+  url: >-
+    https://uploads-ssl.webflow.com/6569ba4efdaf590bfa2e88dd/658a942e463e79c19694d6b5_Stylam.png
   alt: null
 updated-on: '2023-12-26T08:52:23.029Z'
 created-on: '2023-12-26T08:52:23.029Z'
